@@ -15,6 +15,7 @@
         <entry key="app/src/main/res/drawable/search_background.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_bookmark.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fragment_weather.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/item_bookmark.xml" value="0.40486725663716816" />
         <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.28229166666666666" />
       </map>
